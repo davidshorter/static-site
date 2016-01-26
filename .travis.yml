@@ -1,1 +1,10 @@
 script: date
+deploy:
+  provider: s3
+  access_key_id: AKIAIOSQ4IFPZ63CJCXA
+  secret_access_key:
+    secure: WWp+281nP4W2iKxTiDWQO7QArtyT09mydBSIlyQcXgayr7lkyYhNZxw2BUY6tKW7m4m6gPe95BxKwy7EhXFKtNfSE9doPBtJySwvso9NMZmhIOsOAzFVhx3jU8tINXmGx2xSJBkM3kF4G7t/kvW+jYbdPhoUMiT4yeRbHaY/ASB4YvAYyGKztgOqY/UjpBIhuwCPiz10EZXUnQUDnfA8Jg5zL0r8ojknD38Cx+G0fsrJtZw/N1E5oJGzXhenAuiKeohbv52wvlKPPsHDhrRRQuK5JRbxi8oZl9Hihi4s2vMYjc5sARPw8Tqt8/p1N+58SpFDCZS6JxoNO0m7jTfPDwbzhywfMfhzBdGs6B7nZVeiTHEg+2N8ieAPAlMgnddXsXvXY+vovmehEkEFRP+kRV+hLecEsvDGQLaWC2oWMFpeZ/eLmGitFhMoeyGhPUHwQB9i9gO0ZSdVzxoqVNMbsq1APU4T5iN5nUr0Dwn+f0NPmm4wAiPPTcRN5no6YhcBi7djlfAy71fCRIw60gdg7kNesSFF3Rfdi7i/jz7hPC2df5YBFRmXvNVfXxdldHL9P2BKqp5cibaElLkO6fITDlR4801QqxiKsQPnDDq830ICtjzjU/vaCEIcV2AOZjGYwGFltJzqmiHA/7X6H/cnCSs7id6Ni6Dohry9yPwcGRg=
+  bucket: input.danieltomcej.rocks
+  acl: ''
+  on:
+    repo: dtomcej/static-site
