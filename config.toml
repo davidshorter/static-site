@@ -1,0 +1,4 @@
+baseurl = "http://danieltomcej.rocks/"
+languageCode = "en-us"
+title = "Daniel Tomcej Rocks"
+theme = "hugo-theme-air"
