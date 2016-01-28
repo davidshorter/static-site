@@ -2,7 +2,7 @@ language: go
 go: tip
 install:
   - wget https://github.com/spf13/hugo/archive/v0.15.zip
-  - unzip v0.15.zip -d $HOME/hugo && cd $HOME/hugo && make && make install
+  - unzip v0.15.zip -d $HOME/hugo && cd $HOME/hugo/hugo-0.15 && make && make install
 script:
   - hugo version
   - hugo -v --theme=strata
