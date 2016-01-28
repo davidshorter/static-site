@@ -1,7 +1,9 @@
 language: go
 go: tip
 install: go get -u -v github.com/spf13/hugo
-script: hugo -s $HOME/gopath/src/github.com/dtomcej/static-site/ -d $HOME/gopath/src/github.com/dtomcej/static-site/public
+script:
+  - hugo version
+  - hugo -s $HOME/gopath/src/github.com/dtomcej/static-site/ -d $HOME/gopath/src/github.com/dtomcej/static-site/public
 deploy:
   provider: s3
   access_key_id: AKIAIOSQ4IFPZ63CJCXA
