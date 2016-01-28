@@ -1,7 +1,7 @@
 baseurl = "http://danieltomcej.rocks/"
 languageCode = "en-us"
 title = "Daniel Tomcej Rocks"
-theme = "hugo-strata-theme"
+theme = "strata"
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
