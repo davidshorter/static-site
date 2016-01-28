@@ -10,5 +10,6 @@ deploy:
   bucket: danieltomcej.rocks
   region: us-west-2
   local_dir: $HOME/gopath/src/github.com/dtomcej/static-site/public
+  skip_cleanup: true
   on:
     repo: dtomcej/static-site
