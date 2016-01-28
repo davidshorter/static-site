@@ -4,6 +4,7 @@ install: go get -u -v github.com/spf13/hugo
 script:
   - hugo version
   - hugo -t hugo-strata-theme
+  - ls -la
 deploy:
   provider: s3
   access_key_id: AKIAIOSQ4IFPZ63CJCXA
