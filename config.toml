@@ -84,8 +84,8 @@ theme = "hugo-strata-theme"
 
 		address = [
 			"15720 78A Ave",
-			"Edmonton, AB T5R3G1",
-			"Canada"
+			"Edmonton, Alberta",
+			"Canada T5R3G1"
 		]
 		phone = "780-884-8188"
 
