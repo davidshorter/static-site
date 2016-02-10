@@ -1,0 +1,16 @@
+{{ partial "head" . }}
+	<body id="top">
+		{{ partial "header" . }}
+
+		{{ "<!-- Main -->" | safeHTML }}
+		<div id="main">
+			{{ .Content }}
+      <div id="return">
+        {{ with .Site.BaseURL }}
+        Return <a href="{{ . }}">Home</a>
+        {{ end }}
+      </div>
+		</div>
+		{{ partial "footer" . }}
+	</body>
+</html>
