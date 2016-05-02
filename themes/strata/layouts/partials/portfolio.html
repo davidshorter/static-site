@@ -3,8 +3,10 @@
 	{{ with .Site.Params.portfolio.title }}<h2>{{ . }}</h2>{{ end }}
 	<div class="row">
 		{{ range .Site.Params.portfolio.gallery }}
-		<article class="6u 12u$(xsmall) work-item">
-			<a href="{{ .Site.BaseImageURL }}{{ .image }}" class="image fit thumb"><img src="{{ .Site.BaseimageURL }}thumbs/{{ .thumb }}" alt="" /></a>
+		{{ $image := .image | printf "%s%s" $.Site.Params.baseimageurl | printf "%s" | safeURL}}
+		{{ $thumb := .thumb | printf "%sthumbs/%s" $.Site.Params.baseimageurl | printf "%s" | safeURL}}
+	<article class="6u 12u$(xsmall) work-item">
+			<a href="{{ $image }}" class="image fit thumb"><img src="{{ $thumb }}" alt="" /></a>
 			<h3>{{ .title }}</h3>
 			<p>{{ .description | markdownify }}</p>
 		</article>

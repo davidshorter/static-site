@@ -2,14 +2,14 @@ baseurl = "http://danieltomcej.rocks/"
 languageCode = "en-us"
 title = "Daniel Tomcej Rocks"
 theme = "strata"
-baseimageurl = "http://images.danieltomcej.rocks/"
+
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Daniel Tomcej"
 	description = "DevOps Lifestyle"
-
+	baseimageurl = "http://images.danieltomcej.rocks/"
 	# Enable Google Analytics by inserting your tracking code
 	googleAnalytics = ""
 
@@ -33,8 +33,8 @@ baseimageurl = "http://images.danieltomcej.rocks/"
 
 
 	[params.about]
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "Welcome to DanielTomcej.rocks"
+		content = "This is a site dedicated to sharing information about myself. Sometimes social media is not the right platform. This is a collection of my interests, and my thoughts. I currently work full time, and attent Athabasca University full time, completing my Bachelor of Science in Computer Science and Information Systems (Bsc. CSIS). My blog can be found [here:](//danieltomcej.rocks/blog/) "
 
 
 	[params.portfolio]
@@ -43,8 +43,8 @@ baseimageurl = "http://images.danieltomcej.rocks/"
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "dinner_en_blanc.jpg"
-			thumb = "dinner_en_blanc_thumb.jpg"
+			image = "dinner_en_blanc_nice_full.jpg"
+			thumb = "dinner_en_blanc_nice_full_thumb.jpg"
 			title = "Spending time with my wife."
 			description = "This was at the Edmonton Dinner en Blanc (2015)."
 
@@ -65,6 +65,12 @@ baseimageurl = "http://images.danieltomcej.rocks/"
 			thumb = "biking_thumb.jpg"
 			title = "Biking."
 			description = "Biking with the local group."
+
+		[[params.portfolio.gallery]]
+			image = "cello_full.jpg"
+			thumb = "cello_full_thumb.jpg"
+			title = "Playing the Cello."
+			description = "Sometimes in this high-tech world, the most low-tech devices can be the most frustrating to operate."
 
 
 	[params.contact]
