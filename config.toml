@@ -2,6 +2,7 @@ baseurl = "http://danieltomcej.rocks/"
 languageCode = "en-us"
 title = "Daniel Tomcej Rocks"
 theme = "strata"
+baseimageurl = "http://images.danieltomcej.rocks/"
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
@@ -37,45 +38,33 @@ theme = "strata"
 
 
 	[params.portfolio]
-		title = "Recent Work"
+		title = "Non-Computer Related Intrests"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "dinner_en_blanc.jpg"
+			thumb = "dinner_en_blanc_thumb.jpg"
+			title = "Spending time with my wife."
+			description = "This was at the Edmonton Dinner en Blanc (2015)."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "liz_beach.jpg"
+			thumb = "liz_beach_thumb.jpg"
+			title = "My lovely wife."
+			description = "Taken in Maui."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "turtle.jpg"
+			thumb = "turtle_thumb.jpg"
+			title = "Tropical vacations."
+			description = "Any opportunity to scuba dive."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "biking.jpg"
+			thumb = "biking_thumb.jpg"
+			title = "Biking."
+			description = "Biking with the local group."
 
 
 	[params.contact]
