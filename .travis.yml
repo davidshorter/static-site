@@ -6,7 +6,6 @@ install:
 script:
   - ./hugo version
   - ./hugo -v --theme=strata
-  - ls -lRa
 deploy:
   provider: s3
   access_key_id: AKIAIOSQ4IFPZ63CJCXA

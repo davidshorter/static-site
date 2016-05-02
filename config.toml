@@ -34,7 +34,7 @@ theme = "strata"
 
 	[params.about]
 		title = "Welcome to DanielTomcej.rocks"
-		content = "This is a site dedicated to sharing information about myself. Sometimes social media is not the right platform. This is a collection of my interests, and my thoughts. I currently work full time, and attent Athabasca University full time, completing my Bachelor of Science in Computer Science and Information Systems (Bsc. CSIS). My blog can be found [here:](//danieltomcej.rocks/blog/) "
+		content = "This is a site dedicated to sharing information about myself. Sometimes social media is not the right platform. This is a collection of my interests, and my thoughts. I currently work full time, and attent Athabasca University full time, completing my Bachelor of Science in Computer Science and Information Systems (Bsc. CSIS). My blog can be found [here:](/blog) "
 
 
 	[params.portfolio]
