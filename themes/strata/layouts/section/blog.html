@@ -1,0 +1,30 @@
+{{ partial "head" . }}
+	<body id="top">
+		{{ partial "header" . }}
+
+		{{ "<!-- Main -->" | safeHTML }}
+		<div id="main">
+			<section>
+				<header class="major">
+					<h1>Posted Blog Pages </h1>
+						<div id="post-date">
+							<p>Sorted by date</p>
+						</div>
+				</header>
+			</section>
+      {{ range .Data.Pages }}
+          <ul>
+            {{ .Render "li"}}
+          </ul>
+      {{ end }}
+      <div id="return">
+        {{ with .Site.BaseURL }}
+        Return <a href="{{ . }}">Home</a>
+        {{ end }}
+      </div>
+		</div>
+		{{ partial "footer" . }}
+	</body>
+</html>
+
+blog section list
