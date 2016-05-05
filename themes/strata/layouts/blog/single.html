@@ -4,7 +4,7 @@
 
 		{{ "<!-- Main -->" | safeHTML }}
 		<div id="main">
-			<section>
+			<section id="one">
 				<header class="major">
 					<h1>{{ .Title }}</h1>
 						<div id="post-date">
@@ -12,7 +12,9 @@
 						</div>
 				</header>
 			</section>
-			{{ .Content }}
+			<section id="two">
+					{{ .Content }}
+			</section>
       <div id="return">
         {{ with .Site.BaseURL }}
         Return to the <a href="{{ . }}blog">blog</a>
