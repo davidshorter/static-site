@@ -1,7 +1,7 @@
 +++
 categories = ["blog-post"]
 date = "2016-05-03T10:09:50-06:00"
-title = "Welcome to paris"
+title = "Welcome to Paris"
 
 +++
 

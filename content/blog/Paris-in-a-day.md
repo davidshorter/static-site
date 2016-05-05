@@ -9,6 +9,8 @@ Today was eventful! We started the day off by a train ride to the Tour d'Eiffel.
 
 Still working on getting pictures working in the blog. Hopefully I can get them up and running soon. I want to tap into the theme JS library for the cool thumbnails and overlays. Shouldn't be too hard...
 
+-Dan
+
 <div class="row">
   <div class="6u 12u$(xsmall) work-item">
     <a href="http://images.danieltomcej.rocks/tour.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/tour_thumb.jpg" alt="" title=""></a>
