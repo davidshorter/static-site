@@ -11,12 +11,12 @@ Still working on getting pictures working in the blog. Hopefully I can get them 
 
 <div class="row">
   <div class="6u 12u$(xsmall) work-item">
-    <a href="http://images.danieltomcej.rocks/tour.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/tour_thumb.jpg" alt="" title=""></a>
+    <a href="http://images.danieltomcej.rocks/tour.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/tour_thumb.jpg" alt="" title=""></a>
       <h3>Liz.</h3>
   		<p>At the Eiffel Tower.</p>
   </div>
   <div class="6u 12u$(xsmall) work-item">
-    <a href="http://images.danieltomcej.rocks/rose_window.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/rose_window_thumb.jpg" alt="" title=""></a>
+    <a href="http://images.danieltomcej.rocks/rose_window.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/rose_window_thumb.jpg" alt="" title=""></a>
       <h3>South Rose Window</h3>
       <p>Notre Damme</p>
   </div>
