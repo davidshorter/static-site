@@ -15,7 +15,7 @@ Tomorrow morning is our flight to Geneva, so it is an early night tonight.
   <div class="6u 12u$(xsmall) work-item">
     <a href="http://images.danieltomcej.rocks/clan.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/clan_thumb.jpg" alt="" title=""></a>
       <h3>Our Clan.</h3>
-  		<p>At the Champs d'Elysees.</p>
+  		<p>(Catherine, Serge, Daniel, Jean) At the Champs d'Elysees.</p>
   </div>
   <div class="6u 12u$(xsmall) work-item">
     <a href="http://images.danieltomcej.rocks/arc_de_triumphe.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/arc_de_triumphe_thumb.jpg" alt="" title=""></a>
