@@ -23,13 +23,13 @@ We had a quick nap on the squeaky couch, then hit the road again for dinner. We 
 
 <div class="row">
   <div class="6u 12u$(xsmall) work-item">
-    <a href="http://images.danieltomcej.rocks/pisa_selfie.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/pisa_selfie_thumb.jpg" alt="" title=""></a>
-      <h3>Liz and Dan</h3>
-  		<p>With the Tower of Pisa in the background</p>
+    <a href="http://images.danieltomcej.rocks/liz_wine_tour.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/liz_wine_tour_thumb.jpg" alt="" title=""></a>
+      <h3>Liz</h3>
+  		<p>Backed by the Sienna Valley</p>
   </div>
   <div class="6u 12u$(xsmall) work-item">
-    <a href="http://images.danieltomcej.rocks/pisa_stormclouds.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/pisa_stormclouds_thumb.jpg" alt="" title=""></a>
-      <h3>Tower of Pisa</h3>
-      <p>With stormclouds, and the cathedral for reference</p>
+    <a href="http://images.danieltomcej.rocks/sienna_valley.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/sienna_valley_thumb.jpg" alt="" title=""></a>
+      <h3>Sienna Valley</h3>
+      <p>With rolling hills and vineyards</p>
   </div>
 </div>
