@@ -19,13 +19,13 @@ we called it a day early again, as we were fully exhausted.
 
 <div class="row">
   <div class="6u 12u$(xsmall) work-item">
-    <a href="http://images.danieltomcej.rocks/liz_wine_tour.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/liz_wine_tour_thumb.jpg" alt="" title=""></a>
-      <h3>Liz</h3>
-  		<p>Backed by the Sienna Valley</p>
+    <a href="http://images.danieltomcej.rocks/villa_cora.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/villa_cora_thumb.jpg" alt="" title=""></a>
+      <h3>Villa Cora</h3>
+  		<p>Front of the main building</p>
   </div>
   <div class="6u 12u$(xsmall) work-item">
-    <a href="http://images.danieltomcej.rocks/sienna_valley.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/sienna_valley_thumb.jpg" alt="" title=""></a>
-      <h3>Sienna Valley</h3>
-      <p>With rolling hills and vineyards</p>
+    <a href="http://images.danieltomcej.rocks/villa_cora_inside.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/villa_cora_inside_thumb.jpg" alt="" title=""></a>
+      <h3>Inside</h3>
+      <p>Showing gilding on the walls and ceilings</p>
   </div>
 </div>

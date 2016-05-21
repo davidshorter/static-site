@@ -17,13 +17,18 @@ We ate dinner at a place down the road from our hotel, and the food was mediochr
 
 <div class="row">
   <div class="6u 12u$(xsmall) work-item">
-    <a href="http://images.danieltomcej.rocks/liz_wine_tour.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/liz_wine_tour_thumb.jpg" alt="" title=""></a>
-      <h3>Liz</h3>
-  		<p>Backed by the Sienna Valley</p>
+    <a href="http://images.danieltomcej.rocks/duomo.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/duomo_thumb.jpg" alt="" title=""></a>
+      <h3>The Duomo</h3>
+  		<p>Outside of the dome, and front with pedestrians for size reference</p>
   </div>
   <div class="6u 12u$(xsmall) work-item">
-    <a href="http://images.danieltomcej.rocks/sienna_valley.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/sienna_valley_thumb.jpg" alt="" title=""></a>
-      <h3>Sienna Valley</h3>
-      <p>With rolling hills and vineyards</p>
+    <a href="http://images.danieltomcej.rocks/duomo_front.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/duomo_front_thumb.jpg" alt="" title=""></a>
+      <h3>Duomo Front</h3>
+      <p>Showing detail of the marble</p>
+  </div>
+  <div class="6u 12u$(xsmall) work-item">
+    <a href="http://images.danieltomcej.rocks/venus.jpg" class="image fit thumb" style="outline: 0px;"><img src="http://images.danieltomcej.rocks/thumbs/venus_thumb.jpg" alt="" title=""></a>
+      <h3>Venus</h3>
+  		<p>In all her glory</p>
   </div>
 </div>
